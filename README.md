@@ -3,3 +3,6 @@ An enhanced iteration of the bug0 algorithm, specifically tailored for the auton
 
 ### Platform
 VREP/Coppeliasim
+
+### Language
+python,lua
